@@ -11,8 +11,10 @@ You will need python 3.6 and the following python packages installed. Most of th
 4. numpy
 5. IPython
 Furthermore you will also need helper code lstm.py, which is taken from http://www.jakob-aungiers.com/articles/a/LSTM-Neural-Network-for-Time-Series-Prediction
+
 # Motivation
 
+The motivation of this project is to compare the performance of lstm and "standard machine learning algorithms on the problem of predicting Nasdaq prices.
 # Files
 1. Nasdaq.csv: Original csv taken from yahoo
 2. NasdaqC.csv: Modified original data for the lstm to use
